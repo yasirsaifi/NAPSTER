@@ -1,0 +1,4 @@
+things to be changed in website
+= in contact page, form is taking empty values, it shouldn't be.
+= song should be played on a single click.
+= in most played, songs are running serial wise, it should play according to the name(id).
